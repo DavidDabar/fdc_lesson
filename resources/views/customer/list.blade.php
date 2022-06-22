@@ -48,7 +48,7 @@
                 {{ $customer->links() }}
             </div>
             <div class="float-end">
-                <a href="{{ Route('customer#register') }}"><button class="btn btn-primary">Back</button></a>
+                <a href="{{ Route('customer#register') }}"><button class="btn btn-primary">Back to</button></a>
             </div>
         </div>
     </div>
